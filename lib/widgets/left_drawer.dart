@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
-import 'package:shopping_list/menu.dart';
+import 'package:shopping_list/screens/menu.dart';
 // TODO: Impor halaman ShopFormPage jika sudah dibuat
-import 'package:shopping_list/shoplist_form.dart';
+import 'package:shopping_list/screens/shoplist_form.dart';
 
 class LeftDrawer extends StatelessWidget {
   const LeftDrawer({super.key});
